@@ -49,3 +49,14 @@ Our solution is composed of four parts:
 9. If he wants, the user can **pause the data sending**. If the beacon detection **is not working**, it can receive **notifications such as "enable your bluetooth"** (not implemented yet).
 10. The company can login **and see statistics**. For now they are only **average weekly room usage** and **how many minutes are spend in each room on a certain weekday**. These are just **the top of the iceberg** and many other statistics could be implemented with more time. For instance, **machine learning** could be used to **find patterns** such as "Users that use the kitchen in the morning, spend far less time in the machines room than users that don't use the kitchen". Machine learning and additional statistics could be implemented in a second or third Agile sprint.
 11. The employee can **use the site as well**, he has **no credentials** but he can put **company name**, **company token** and **uid** to see just **his own data**, by remaining **anonymous**.
+
+## Hosting
+
+In this first sprint, **free services have been used**:
+1. **MongoDB Atlas** for the database
+2. **Heroku** for the api hosting
+3. **Vercel** for the website hosting
+
+In order to have a better product, in other potential sprints, **Docker** images could be developed for both **API**, **website** and **database**. The **API Docker Image** has already been **automatically developed with a Github Action** and is available [here on dockerhub](https://hub.docker.com/repository/docker/euberdeveloper/camuflon-api).
+
+**Kubernates** could be used to serve them.
