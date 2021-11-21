@@ -1,5 +1,5 @@
 # camuflon-documentation
-The documentation of the camuflon project
+The documentation of the camuflon project - WINNER
 
 This project has been developed in just **one day** for the [NOI Hackathon SFScon Edition (2021)](https://hackathon.bz.it). 
 With some fixes and feature implementation, could be an **already made beta of a real product**.
