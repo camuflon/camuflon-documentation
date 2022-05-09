@@ -17,7 +17,7 @@ This is why we chose this name, because as a camuflon, our product makes **emplo
 
 ## Project purpose
 
-The purpose of the project was allowing companies to tracks where their employees pass most of their time, like in the office or the machines room. 
+The purpose of the project was allowing companies to track where their employees pass most of their time, like in the office or the machines room. 
 With this data many statistics can be calculated, for example to understand if rooms are not used and should be dedicated to other things.
 The data are **aggregated** or, in any case, **anonymous**, with the usage of a **pseudo-identifier not correlated to any name**.
 
